@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/testwav.iml" filepath="$PROJECT_DIR$/.idea/testwav.iml" />
+      <module fileurl="file://$PROJECT_DIR$/common/testwav-common.iml" filepath="$PROJECT_DIR$/common/testwav-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javase/testwav-javase.iml" filepath="$PROJECT_DIR$/javase/testwav-javase.iml" />
+    </modules>
+  </component>
+</project>
